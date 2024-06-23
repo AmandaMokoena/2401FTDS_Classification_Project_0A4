@@ -63,6 +63,13 @@ conda create --name <env>
 conda activate <env>
 # install the pip package
 conda install pip
+pip install nltk
+pip install os 
+pip install Scikit-learn
+pip install glob 
+pip install wordcloud
+pip install textblob
+pip install sklearn
 # install the requirements for this project
 pip install -r requirements.txt
 ```
@@ -137,9 +144,9 @@ Congratulations! You've now officially deployed your first web application!
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarais@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
-| [Annegret Muller](https://github.com/AnnegretExplore)                                       | amuller@sandtech.com
-| [Zintle Faltein-Maqubela](https://github.com/ZintleFaltein)                                                                   | zfaltein-maqubela@sandtech.com
+| [Charmaine Mdluli](charmainemdluli4@gmail.com)                                        | charmainemdluli4@gmail.com
+| [Ntandoyenkosi Biyela](https://github.com/Yenkosintando)                                                                    | biyelantandoyenkosi12@gmail.com
+| [Amanda Mokoena](https://github.com/AmandaM2)                                               | zalmokeona@gmail.com
+| [Nonkululeko Mgaga](https://github.com/nonkululekomgaga1)                                                |  nonkululekomgaga1@gmail.com
+| [Nonhlanhla Joyisa](https://github.com/NonhlanhlaJoyisa)                                       | nonhlaj@yahoo.com
+| [ Nombuso Dlamini](https://github.com/DlaminiNombuso)                                                                   | nombu.dlamini02@gmail.com
