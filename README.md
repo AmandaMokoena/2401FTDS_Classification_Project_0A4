@@ -63,6 +63,13 @@ conda create --name <env>
 conda activate <env>
 # install the pip package
 conda install pip
+pip install nltk
+pip install os 
+pip install Scikit-learn
+pip install glob 
+pip install wordcloud
+pip install textblob
+pip install sklearn
 # install the requirements for this project
 pip install -r requirements.txt
 ```
